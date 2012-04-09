@@ -1,0 +1,10 @@
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan3\bin\Debug\Per6Latihan3.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan3\bin\Debug\Per6Latihan3.pdb
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan3\obj\x86\Debug\Per6Latihan3.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan3\obj\x86\Debug\Per6Latihan3.pdb
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan3\Per6Latihan3\obj\x86\Debug\Per6Latihan3.exe
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan3\Per6Latihan3\obj\x86\Debug\Per6Latihan3.pdb
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan3\Per6Latihan3\bin\Debug\Per6Latihan3.exe
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan3\Per6Latihan3\bin\Debug\Per6Latihan3.pdb
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan3\Per6Latihan3\obj\x86\Debug\ResolveAssemblyReference.cache
